@@ -1,0 +1,1649 @@
+{
+  "intents": [
+    {
+      "intent": "quantity",
+      "examples": [
+        {
+          "text": "How much is produced"
+        },
+        {
+          "text": "What is the quantity"
+        },
+        {
+          "text": "show quantity"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Flood",
+      "examples": [
+        {
+          "text": "flood"
+        },
+        {
+          "text": "Do we have a storm coming"
+        },
+        {
+          "text": "When will it rain"
+        },
+        {
+          "text": "when can the floods happen"
+        },
+        {
+          "text": "floods"
+        },
+        {
+          "text": "safety measure for floods"
+        },
+        {
+          "text": "farmers precautions for floods"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey there"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "Tomatoes",
+      "examples": [
+        {
+          "text": "tomato steps"
+        },
+        {
+          "text": "tomato"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "land",
+      "examples": [
+        {
+          "text": "What is the land size"
+        },
+        {
+          "text": "how much land is available ?"
+        },
+        {
+          "text": "land size"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Can you tell a joke?"
+        },
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "What is your favorite joke?"
+        },
+        {
+          "text": "Another joke"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "I'm bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "Help",
+      "examples": [
+        {
+          "text": "help"
+        },
+        {
+          "text": "help me"
+        },
+        {
+          "text": "show"
+        },
+        {
+          "text": "how to start"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "croptype",
+      "examples": [
+        {
+          "text": "crop types"
+        },
+        {
+          "text": "show the crops"
+        },
+        {
+          "text": "What are the crop type ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bye",
+      "examples": [
+        {
+          "text": "see you"
+        },
+        {
+          "text": "ok bye"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "thank you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Stupid"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "Rice",
+      "examples": [
+        {
+          "text": "rice security"
+        },
+        {
+          "text": "rice"
+        },
+        {
+          "text": "security for rice"
+        },
+        {
+          "text": "safety measures for rice crop"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "weather",
+      "examples": [
+        {
+          "text": "What is the normal weather ?"
+        },
+        {
+          "text": "Show the weather"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "Brilliant!"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "Discovery",
+      "examples": [
+        {
+          "text": "policy"
+        },
+        {
+          "text": "food security"
+        },
+        {
+          "text": "economic recessions"
+        },
+        {
+          "text": "fitness"
+        },
+        {
+          "text": "health"
+        },
+        {
+          "text": "nutritions"
+        },
+        {
+          "text": "locusts"
+        },
+        {
+          "text": "impact of covid 19"
+        },
+        {
+          "text": "What is food emergency"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Wheat",
+      "examples": [
+        {
+          "text": "wheat crop"
+        },
+        {
+          "text": "steps for wheat"
+        },
+        {
+          "text": "Wheat"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        },
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "Are you safe on hackers?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        },
+        {
+          "text": "I'd like proof of a secure chat"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        },
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Are you safe?"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    },
+    {
+      "intent": "barley",
+      "examples": [
+        {
+          "text": "barley crop"
+        },
+        {
+          "text": "barley"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "FUN_Facts",
+      "examples": [
+        {
+          "text": "fun facts"
+        },
+        {
+          "text": "facts"
+        },
+        {
+          "text": "facts for farmers"
+        },
+        {
+          "text": "some facts"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "location",
+      "examples": [
+        {
+          "text": "show the location"
+        },
+        {
+          "text": "What is the location ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "state",
+      "examples": [
+        {
+          "text": "show the states"
+        },
+        {
+          "text": "What are the states ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Farmers_Name",
+      "examples": [
+        {
+          "text": "farmer names"
+        },
+        {
+          "text": "name of farmer"
+        },
+        {
+          "text": "farmers available"
+        },
+        {
+          "text": "how many farmers"
+        },
+        {
+          "text": "Who are the farmers"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Measures",
+      "examples": [
+        {
+          "text": "key take aways"
+        },
+        {
+          "text": "measures"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Why are you here?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "About you"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://eu-gb.functions.cloud.ibm.com/api/v1/web/shreekarkolanu%40gmail.com_dev/Farmers/Farmers.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Please try again later"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1593759868897",
+      "conditions": "anything_else",
+      "dialog_node": "response_3_1593759885104",
+      "previous_sibling": "response_9_1593759882600"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "\"<?$webhook_result_1.passages[0].passage_text?>\"",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Buckingham_Canal_near_KL_University.JPG/330px-Buckingham_Canal_near_KL_University.JPG",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_1_1593759868897",
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_9_1593759882600"
+    },
+    {
+      "type": "standard",
+      "title": "bye",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Have a great day! See ya"
+              },
+              {
+                "text": "Alright it was a pleasure talking to you. See ya"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Bye",
+      "dialog_node": "node_8_1593774605528",
+      "previous_sibling": "Anything else"
+    },
+    {
+      "type": "standard",
+      "title": "rice",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "𝗦𝘁𝗲𝗽𝘀 𝘁𝗼 𝗲𝗻𝘀𝘂𝗿𝗲 𝗥𝗶𝗰𝗲 𝗰𝗿𝗼𝗽 𝗦𝗮𝗳𝗲𝘁𝘆\nStep 1. Use a crop calendar \nStep 2. Choose the best variety\nStep 3. Use high quality seed\nStep 4. Prepare and level the fields well\nStep 5: Plant on time \nStep 6:  Weed early\nStep 7. Fertilize to maximize returns\nStep 8. Use water efficiently\nStep 9. Control pests and diseases effectively\nStep 10. Harvest on time\nStep 11. Store safely\nStep 12. Mill efficiently\nStep 13. Understand the market\n𝗗𝘂𝗿𝗶𝗻𝗴 𝗖𝗼𝘃𝗶𝗱-𝟭𝟵 𝘀𝗼𝗺𝗲 𝘀𝘁𝗲𝗽𝘀 𝘁𝗼 𝗯𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗲𝗱\nThe need for provisioning cheap credit and reaching out to farmers\nDirect income support \nRe-prioritise actions   \nProcure at the doorstep"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Rice",
+      "dialog_node": "node_9_1593756822711",
+      "previous_sibling": "node_9_1593707829140"
+    },
+    {
+      "type": "standard",
+      "title": "greetings",
+      "output": {
+        "generic": [
+          {
+            "title": "Hey! Lets get Started ",
+            "source": "https://ak.picdn.net/shutterstock/videos/1009619249/thumb/5.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_9_1593704318909",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "barley",
+      "output": {
+        "generic": [
+          {
+            "title": "1)Soil Requirement 2)Land Preparation 3)Manure and Fertilizers 4)Seeds and Sowing 5)Seed treatment 6)Irrigation 8)Harvesting and Yield",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Barley.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#barley",
+      "dialog_node": "node_9_1593758389359",
+      "previous_sibling": "node_7_1593758270479"
+    },
+    {
+      "type": "standard",
+      "title": "Farmer",
+      "output": {
+        "generic": [
+          {
+            "title": "1) Hari Singh 2)Mohan Yadav 3)Rajpal Seth 4)Sachin Iyer 5)Himanta Sarma ",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Agriculture_in_Vietnam_with_farmers.jpg/1200px-Agriculture_in_Vietnam_with_farmers.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#Farmers_Name",
+      "dialog_node": "node_4_1593684564000",
+      "previous_sibling": "node_9_1593758389359"
+    },
+    {
+      "type": "standard",
+      "title": "tomato",
+      "output": {
+        "generic": [
+          {
+            "title": "𝐒𝐭𝐞𝐩𝐬 𝐭𝐨 𝐞𝐧𝐬𝐮𝐫𝐞 𝐓𝐨𝐦𝐚𝐭𝐨𝐞𝐬 𝐂𝐫𝐨𝐩 𝐒𝐚𝐟𝐞𝐭𝐲 Step 1: Make a Clean Start Step 2:Label Your Containers Step 3: Plant Tomato Seeds Dry Step 4: Water Wisely Step 5:Tomatoes Need Warmth and Light Step 6: Pot On in Stages Step 7: Handle Tomato Seedlings With Care Step 8: Don’t Rush Hardening Off",
+            "source": "https://image.shutterstock.com/image-photo/beautiful-red-ripe-heirloom-tomatoes-260nw-776379370.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#Tomatoes",
+      "dialog_node": "node_7_1593758270479",
+      "previous_sibling": "node_8_1593757843244"
+    },
+    {
+      "type": "standard",
+      "title": "Facts",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "𝕊𝕠𝕞𝕖 𝔽𝕒𝕔𝕥𝕤\n1. The World Food Summit of 1996 defined that “food security exists when all people, at all times, have physical and economic access to sufficient, safe and nutritious food that meets their dietary needs and preferences for an active life.”  \n2. Food security is built on four pillars: food availability; food access; food use; and food stability. When one of these pillars is unstable or non-existent, people can live in a state of food insecurity.\n3. 500 million small farms provide up to 80% of food for most of the developing world. An estimated 400 million smallholder farmers are undernourished.\n4. In the world's main tea producing regions more than 30% of children are malnourished. In Malawi, this rises to 50%. \n5. Poverty and drought are the most common causes of food shortages in the world.\n6. Smallholder coffee farmers in three Central American countries were found to have no guarantee of food security for 3-4 months every year."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#FUN_Facts",
+      "dialog_node": "node_7_1593758527031",
+      "previous_sibling": "node_1_1593759868897"
+    },
+    {
+      "type": "standard",
+      "title": "Wheat",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "𝗦𝘁𝗲𝗽𝘀 𝘁𝗼 𝗲𝗻𝘀𝘂𝗿𝗲 𝗪𝗵𝗲𝗮𝘁 𝗖𝗿𝗼𝗽 𝗦𝗮𝗳𝗲𝘁𝘆\nStep 1: controlled climate, including cooling and aeration to reduce insect reproductive rate and humidity;\nStep 2: controlled and airtight storage atmospheres;\nStep 3: heat treatment (more than 60°C) to disinfest grain;\nStep 4: physical barriers to protect uninfested grain;\nStep 5: fumigation with penetrating gases;\nStep 6: contact insecticides to control flying insects;\nStep 7: admixing an insecticide or grain protectant;\nStep 8: trapping to control rodents;\nStep 9: resistant crop cultivars;\nStep 10: statutory regulations affecting the quarantine or control of storage insects."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Wheat",
+      "dialog_node": "node_8_1593757843244",
+      "previous_sibling": "node_9_1593756822711"
+    },
+    {
+      "type": "standard",
+      "title": "weather",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sunny- Ludhiana "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "sunny- Gorakhpur "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "cloudy- Ranchi "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "sunny- Chennai"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "rainy- Guwahati "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#weather",
+      "dialog_node": "node_6_1593686953252",
+      "previous_sibling": "node_5_1593686932995"
+    },
+    {
+      "type": "standard",
+      "title": "Help",
+      "output": {
+        "generic": [
+          {
+            "title": "Hello there! I can help you with giving you details about 𝗙𝗮𝗿𝗺𝗲𝗿𝘀/𝗰𝗿𝗼𝗽𝘀/𝗳𝗼𝗼𝗱 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆/𝗳𝗹𝗼𝗼𝗱 𝘄𝗮𝗿𝗻𝗶𝗻𝗴𝘀/𝗳𝗮𝗰𝘁𝘀/𝗺𝗲𝗮𝘀𝘂𝗿𝗲𝘀",
+            "source": "http://biharpolice.bih.nic.in/Image/HELP.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#Help",
+      "dialog_node": "node_3_1593765720599",
+      "previous_sibling": "node_9_1593704318909"
+    },
+    {
+      "type": "standard",
+      "title": "Location",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ludhiana- Hari singh "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Gorakhpur- Mohan Yadav "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Ranchi- Rajpal Seth "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Chennai- Sachin Iyer "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Guwahati- Himanta Sarma "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#location",
+      "dialog_node": "node_5_1593686932995",
+      "previous_sibling": "node_1_1593686908832"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_10_1593758911866",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Plot size(Hectares)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "5 hectres- Hari Singh"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "2.25 hectres- Mohan Yadav "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "4.6 hectres- Rajpal Seth "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "3.54 hectres- Sachin Iyer "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "1.15 hectres- Himanta sarma "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#land",
+      "dialog_node": "node_7_1593686365797",
+      "previous_sibling": "node_4_1593684564000"
+    },
+    {
+      "type": "standard",
+      "title": "Floods",
+      "output": {
+        "generic": [
+          {
+            "title": "𝗙𝗮𝗿𝗺𝗲𝗿𝘀 𝗰𝗮𝗻 𝗳𝗼𝗹𝗹𝗼𝘄 𝘁𝗵𝗲 𝗳l𝗼𝗼𝗱 𝗽𝗿𝗲𝗰𝗮𝘂𝘁𝗶𝗼𝗻𝘀 1)Do not use produce from plants that have yellowed. 2)Discard vegetable crops flooded with off-farm water that may have been contaminated, 3)particularly leafy vegetable crops. 4)Wash vegetables thoroughly before packing. Facts- after floods or high rainfall, vegetable crops may become a risk to food safety, even if they look healthy.",
+            "source": "https://www.mapsofindia.com/maps/india/climaticregions.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#Flood",
+      "dialog_node": "node_9_1593707829140",
+      "previous_sibling": "node_3_1593765720599"
+    },
+    {
+      "type": "standard",
+      "title": "Quantity ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "15 tons- Hari Singh || 7 tons- Mohan Yadav || 10 tons- Rajpal Seth || 12 tons- Sachin Iyer || 6 tons- Himanta Sarma "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#quantity",
+      "dialog_node": "node_7_1593686561868",
+      "previous_sibling": "node_7_1593686365797"
+    },
+    {
+      "type": "standard",
+      "title": "State",
+      "output": {
+        "generic": [
+          {
+            "title": "Punjab- Hari Singh || UP- Mohan Yadav || Jharkhand- Rajpal Seth || Tamil Nadu- Sachin Iyer || Assam- Himanta Sarma   ",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Buckingham_Canal_near_KL_University.JPG/330px-Buckingham_Canal_near_KL_University.JPG",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#state",
+      "dialog_node": "node_1_1593686908832",
+      "previous_sibling": "node_10_1593686756117"
+    },
+    {
+      "type": "standard",
+      "title": "Discovery",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input.text?>"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Discovery",
+      "dialog_node": "node_1_1593759868897",
+      "previous_sibling": "node_6_1593686953252"
+    },
+    {
+      "type": "standard",
+      "title": "Crop type ",
+      "output": {
+        "generic": [
+          {
+            "title": "Wheat- Hari Singh || Barley- Mohan Yadav || Tomatoes- Rajpal Seth || Rice- Sachin Iyer || Rice- Himanta Sarma ",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Unload_wheat_by_the_combine_Claas_Lexion_584.jpg/720px-Unload_wheat_by_the_combine_Claas_Lexion_584.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#croptype",
+      "dialog_node": "node_10_1593686756117",
+      "previous_sibling": "node_7_1593686561868"
+    },
+    {
+      "type": "standard",
+      "title": "measures",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "𝗠𝗲𝗮𝘀𝘂𝗿𝗲𝘀- There are four key steps that state governments, supported by the Centre, need to immediately prioritise.  1)Redirect farm supply chains to local areas 2)Move away from cash crops 3)Increasing allocations for direct transfers 4)Set up mobile food vans"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Measures",
+      "dialog_node": "node_10_1593758911866",
+      "previous_sibling": "node_7_1593758527031"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello there! I can help you with giving you details about Farmers/crops/food security/warnings on natural calamities/facts/measures."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Farmer Details",
+  "language": "en",
+  "description": ""
+}

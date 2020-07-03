@@ -1,0 +1,67 @@
+Impact On Covid-19 On Food Security
+
+Project Description: 
+
+This project is a total integration of multiple computing topics to support the situation consisting food as support entity essential for support of life in this period of pandemic. Covid-19 has a severe impact on the food and it’s whole production and supply chain which if not taken care could have adverse affect on the larger population of this country. We combine AI, cloud, database and geolocation in a single api to ensure proper running of the food chain especially the production through farming which is the root of food production and supply and also the storage in godowns/storage units. 
+
+Project requirements: 
+1.Use Watson Assistant
+2.IBM Cloud Functions 
+3.Watson Discovery Smart document
+4.Central Database 
+5.Farmer’s database 
+6.Node Red Rest API
+7.Weather details and NCW(natural calamities warnings).
+8.Watson IOT
+9.Watson Studio(jupyter notebook)
+10.Watson Visual Recognition
+
+
+
+
+
+Functional Requirements:
+	1.Farmers details dialog skill in Watson Assistant
+	2.Auto crop type Allocation dialog
+	3.Temperature control skill
+	4.Create a Weather/NCW(natural calamities warning)
+	5.Central and farmers database to build an enhanced Watson Discovery 		   collection.
+	6.Create a webhook for the farmers database to the price allocation/storage    		units location.
+	7.Make a Rest API web platform for the Food Security.
+	8.IBM Cloud Functions web action that allows Watson Assistant to post
+   queries to Watson Discovery.
+9.Build a web application with integration to all these services &amp;    deploy the same on IBM Cloud Platform. 
+10.Build Watson IOT sensor to tell the required temperature conditions in the Warehouse for the farmers.
+11.Build a Visual recognition to identify the crop type.
+12.No. of crops harvested by a farmer/yield price allocation.
+
+Technical requirements: 
+	1.Python 
+	2.IBM cloud
+	3.IBM Watson
+4.Github
+5.IBM Rest api/Bluemix
+6.IBM Node Red
+7.IBM Watson Assistant
+8.IBM Watson Studio
+9.IBM visual recognition
+10.IBM IOT
+
+Software requirements: 
+	1.IBM cloud platform
+2.IBM Watson AI Services
+3.Website for deploying
+4.Github
+
+Project schedule: 
+Project Planning and Kickoff
+Explore IBM Cloud Platform
+Explore IBM Discovery
+IBM Watson Services
+IBM watson studio(jupyter notebook)
+IBM IOT
+Visual recognition
+Explore Node Red/Bluemix
+Explore IBM Cloud Functions
+Test Bots
+Test Web Platform
