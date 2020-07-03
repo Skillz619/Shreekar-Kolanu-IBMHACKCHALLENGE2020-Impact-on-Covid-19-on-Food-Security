@@ -1,7 +1,7 @@
 # IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security-Shreekar-Kolanu
 Impact on Covid-19 on Food Security #IBMHACKCHALLENGE2020. This is repository build with the help of Watson Assistant, Discovery, Cloud Function,Watson studio,Watson IOT, Visual Recognition and Node Red app of IBM Cloud.
 
-#Project Description : This project is a total integration of multiple computing topics to support the situation consisting food as support entity essential for support of life in this period of pandemic. Covid-19 has a severe impact on the food and it’s whole production and supply chain which if not taken care could have adverse affect on the larger population of this country. We combine AI, cloud, database and geolocation in a single api to ensure proper running of the food chain especially the production through farming which is the root of food production and supply and also the storage in godowns/storage units. 
+#Project Description : This project is a total integration of multiple computing topics to support the situation consisting food as support entity essential for support of life in this period of pandemic. Covid-19 has a severe impact on the food and it’s whole production and supply chain which if not taken care could have adverse affect on the larger population of this country. We combine Artificial Intelligence, Cloud, database and Machine Learning in a single api to ensure proper running of the food chain especially the production through farming which is the root of food production and supply and also the storage in godowns/storage units. 
 
 
 Project requirements: 
