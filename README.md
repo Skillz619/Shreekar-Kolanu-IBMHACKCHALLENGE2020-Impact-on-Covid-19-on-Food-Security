@@ -7,7 +7,6 @@ Impact on Covid-19 on Food Security #IBMHACKCHALLENGE2020. This is repository bu
 Project requirements: 
 
 1.Use Watson Assistant
-
 2.IBM Cloud Functions
 
 3.Watson Discovery Smart document
