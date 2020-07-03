@@ -27,8 +27,6 @@ Project requirements:
 10.Watson Visual Recognition
 
 In Watson Discovery I have added  User Manuals for the Discovery .
-
-
 I have also created an Excel Sheet for the farmers Database.
 
 
