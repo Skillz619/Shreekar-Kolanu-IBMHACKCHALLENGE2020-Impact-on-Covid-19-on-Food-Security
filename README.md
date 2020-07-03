@@ -6,14 +6,23 @@ Impact on Covid-19 on Food Security #IBMHACKCHALLENGE2020. This is repository bu
 
 Project requirements: 
 1.Use Watson Assistant
-2.IBM Cloud Functions 
+
+2.IBM Cloud Functions
+
 3.Watson Discovery Smart document
+
 4.Central Database 
+
 5.Farmer’s database 
+
 6.Node Red Rest API
+
 7.Weather details and NCW(natural calamities warnings).
+
 8.Watson IOT
+
 9.Watson Studio(jupyter notebook)
+
 10.Watson Visual Recognition
 
 In Watson Discovery I have added  User Manuals for the Discovery .
