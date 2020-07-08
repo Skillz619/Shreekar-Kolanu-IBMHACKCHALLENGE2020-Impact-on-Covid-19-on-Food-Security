@@ -29,10 +29,25 @@ Project requirements:
 In Watson Discovery I have added  User Manuals for the Discovery .
 I have also created an Excel Sheet for the farmers Database.
 
-
-
 Node-Red Dashboard link after deploying : https://dev-works-app12.eu-gb.mybluemix.net/ui
 
 Watson Assistan Preview Link : https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=dae25a99-7598-44ef-bd1b-ed636e7f63ee&serviceInstanceID=26fd3ef0-c511-4f8b-aa3e-c0d9bb5c6b7c
+
+
+Introduction Tab
+![](https://github.com/Skillz619/-IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security-Shreekar-Kolanu/blob/master/Preview1.png)
+
+Agriculture Tab (BOT)
+![](https://github.com/Skillz619/-IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security-Shreekar-Kolanu/blob/master/Preview2.png)
+
+Visual Recognition Tab
+![](https://github.com/Skillz619/-IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security-Shreekar-Kolanu/blob/master/Preview(3).png)
+
+Crop Prices Tab
+![](https://github.com/Skillz619/-IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security-Shreekar-Kolanu/blob/master/Preview(4).png)
+
+Temperature Indicators
+![](https://github.com/Skillz619/-IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security-Shreekar-Kolanu/blob/master/Preview%20(5).png)
+
 
 
